@@ -91,7 +91,7 @@ module.exports = {
         options: {
           clientID: 'Ov23liTjmDbN5NRufWWq',
           clientSecret: '8d8eea87c83ff06f9aaa745aaafd51dacf972f0a',
-          repo: 'yicode-code.github.io', // GitHub 仓库
+          repo: 'PersonalGrowth', // GitHub 仓库
           owner: 'yidou-code', // GitHub仓库所有者
           admin: ['yidou-code','new-info'], // 对仓库有写权限的人
           distractionFreeMode: false,
