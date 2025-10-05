@@ -1,5 +1,5 @@
 module.exports = {
-  title: '示例文档',
+  title: '大学每月学习总结',
   description: '基于VuePress的知识管理框架',
   theme: 'vdoing',
   themeConfig: {
@@ -23,7 +23,7 @@ module.exports = {
         text: '自习室',
         link: '/study/',
         items: [
-          { text: '学习笔记', link: '/pages/april-2025/' }
+          { text: '学习笔记', link: '/pages/Oct-2025/index.html' }
         ]
       },
       { text: '关于', link: '/about/' }
@@ -38,12 +38,12 @@ module.exports = {
     },
     // 作者信息
     author: {
-      name: '示例作者',
+      name: 'yidou-code',
       link: 'https://github.com/'
     },
     // 博客配置
     blogInfo: {
-      blogger: '示例作者',
+      blogger: 'yidou-code',
       avatar: '/img/logo.png'
     },
     // 最后更新时间
