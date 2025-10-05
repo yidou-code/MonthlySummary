@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: 示例文档
+heroText: 大学每月学习总结
 tagline: 基于VuePress的知识管理框架
 actionText: 快速上手 →
 actionLink: /categories/
